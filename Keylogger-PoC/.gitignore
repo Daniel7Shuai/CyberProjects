@@ -1,0 +1,4 @@
+.env
+sys32.txt
+__pycache__/
+.venv/
