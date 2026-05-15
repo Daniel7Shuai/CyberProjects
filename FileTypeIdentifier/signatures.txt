@@ -1,0 +1,35 @@
+# Images 
+FFD8FF,JPEG Image,image/jpeg
+89504E47,PNG Image,image/png
+47494638,GIF Image,image/gif
+424D,Bitmap Image,image/bmp
+49492A00,TIFF Image (Little Endian),image/tiff
+4D4D002A,TIFF Image (Big Endian),image/tiff
+69636E73,Apple Icon Image,image/icns
+00000100,Windows Icon (ICO),image/x-icon
+
+# Doc / Text 
+25504446,PDF Document,application/pdf
+7B0D0A,JSON File,application/json
+3C3F786D6C,XML Document,application/xml
+7B5C727466,Rich Text Format (RTF),application/rtf
+2321,Shell Script (Shebang),text/x-shellscript
+
+# Compress
+504B0304,ZIP Archive / Office Doc,application/zip
+52617221,RAR Archive,application/x-rar-compressed
+1F8B,Gzip Archive,application/gzip
+425A68,Bzip2 Archive,application/x-bzip2
+377ABCAF,7-Zip Archive,application/x-7z-compressed
+
+#exe 
+4D5A,Windows Executable (PE),application/x-msdownload
+7F454C46,Linux Executable (ELF),application/x-elf
+CAFEBABE,Java Class File,application/java-vm
+53514C69,SQLite Database,application/x-sqlite3
+
+#Media 
+494433,MP3 Audio (ID3v2),audio/mpeg
+52494646,AVI Video / WAV Audio,video/x-msvideo
+00000018,MP4 Video (QuickTime),video/mp4
+1A45DFA3,Matroska Video (MKV),video/x-matroska
